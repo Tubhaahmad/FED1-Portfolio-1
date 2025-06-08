@@ -21,11 +21,6 @@ npm run dev
 ```
 
 
-## Contact
-
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-[My Email](toubha.ah@hotmail.com)
 
 
 
