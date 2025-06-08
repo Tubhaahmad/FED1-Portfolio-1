@@ -7,8 +7,8 @@ Portfolio and overview over my three projects that i developed during my first y
 - Project Exam: Sienna's Compass
 
 ## Built With
-- [Vite](https://reactjs.org/](https://vite.dev/)
-- [Tailwind] ([https://tailwindcss.com/)
+- [Vite] (https://vite.dev/)
+- [Tailwind] (https://tailwindcss.com/)
   
 
 ## Getting Started
