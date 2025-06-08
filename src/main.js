@@ -24,7 +24,8 @@ const projects = [
     description:
       "Sienna’s Compass is a responsive travel blog sharing stories, tips, and destinations through a clean, personal design.",
     image: "/images/Siennas-Compass.jpeg",
-    githubLink: "https://github.com/Tubhaahmad/Siennas-Compass-Tubhaahmed.git",
+    githubLink:
+      "https://github.com/Tubhaahmad/Siennas-Compass-Tubhaahmed/tree/main",
     liveWebsite: "https://siennascompass-tubhaahmad.netlify.app/",
     builtWith: "HTML, CSS & Javascript",
   },
